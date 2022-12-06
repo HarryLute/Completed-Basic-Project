@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\congnghephanmem\NHOM\resources\views/master.blade.php ENDPATH**/ ?>
